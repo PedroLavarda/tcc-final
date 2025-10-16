@@ -1,0 +1,12 @@
+Relatório de Classificação para o modelo: efficientnetb5_basic_frozen_20251013_012033
+
+                  precision    recall  f1-score   support
+
+    glioma_tumor       0.87      0.78      0.82        93
+        no_tumor       0.80      0.78      0.79        51
+meningioma_tumor       0.72      0.76      0.74        96
+ pituitary_tumor       0.86      0.90      0.88        87
+
+        accuracy                           0.81       327
+       macro avg       0.81      0.81      0.81       327
+    weighted avg       0.81      0.81      0.81       327
